@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Hee luu em!',
+    introTitle: 'Hee luu em, Mai à!',
     introDesc: `Anh có điều này muốn hỏi em, nhớ phải trả lời thật lòng nha`,
     btnIntro: 'oke vào công chuyện thui',
     title: 'Em yêu anh có phải không 😙',
